@@ -1,0 +1,54 @@
+        [{
+                "Jenis_Kegiatan": "Penetapan Spesifikasi Teknis",
+                "Kode_kegiatan": "null",
+                "Kode_format": "null",
+                "sumber_nomor": "null"
+
+            },
+            {
+                "Jenis_Kegiatan": "Penetapan HPS",
+                "Kode_kegiatan": "OE",
+                "Kode_format": "a1",
+                "sumber_nomor": "PPK"
+            },
+            {
+                "Jenis_Kegiatan": "Surat Permohonan Pengadaan",
+                "Kode_kegiatan": "S",
+                "Kode_format": "a1",
+                "sumber_nomor": "PPK"
+            },
+            {
+                "Jenis_Kegiatan": "Surat Undangan Pengadaan",
+                "Kode_kegiatan": "S",
+                "Kode_format": "a2",
+                "sumber_nomor": "PP"
+            },
+
+            {
+                "Jenis_Kegiatan": "Berita Acara klarifikasi dan Negosiasi Teknis Harga",
+                "Kode_kegiatan": "BAN",
+                "Kode_format": "a2",
+                "sumber_nomor": "PP"
+            },
+            {
+                "Jenis_Kegiatan": "Berita Acara Pembukaan, Evaluasi, Klarifikasi dan Negosiasi Penawaran",
+                "Kode_kegiatan": "BA",
+                "Kode_format": "a2",
+                "sumber_nomor": "PP"
+            },
+            {
+                "Jenis_Kegiatan": "Berita Acara Hasil Pengadaan Langsung",
+                "Kode_kegiatan": "BA",
+                "Kode_format": "a2",
+                "sumber_nomor": "PP"
+            },
+
+            {
+                "Jenis_Kegiatan": "Surat Perintah Kerja (SPK)",
+                "Kode_kegiatan": "SPK",
+                "Kode_format": "a1",
+                "sumber_nomor": "PPK"
+            }
+
+
+        ]
